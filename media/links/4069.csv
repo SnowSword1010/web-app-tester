@@ -1,0 +1,2 @@
+referer,response,status
+http://testphp.vulnweb.com/,http://testphp.vulnweb.com/privacy.php,404

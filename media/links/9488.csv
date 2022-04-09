@@ -1,0 +1,4 @@
+referer,response,status
+https://webapptester.tiiny.site/,https://0b9c91ab-4632-439a-8165-09e4715deddf.mock.pstmn.io/1,404
+https://webapptester.tiiny.site/,https://0b9c91ab-4632-439a-8165-09e4715deddf.mock.pstmn.io/2,410
+https://webapptester.tiiny.site/,https://0b9c91ab-4632-439a-8165-09e4715deddf.mock.pstmn.io/3,500

@@ -1,0 +1,1 @@
+https://docs.djangoproject.com/en/4.0/intro/tutorial01/_media/links/7609.csv
